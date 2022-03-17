@@ -8,7 +8,7 @@ function Footer() {
   return (
     <div>
       <footer>
-        <h2>Copyright dimasaprillianto6@gmail.com</h2>
+        <h2>Copyright</h2>
         <p>Website created by React</p>
       </footer>
     </div>
